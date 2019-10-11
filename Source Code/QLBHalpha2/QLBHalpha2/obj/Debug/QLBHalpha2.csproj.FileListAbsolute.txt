@@ -1,0 +1,99 @@
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\bin\Debug\QLBHalpha2.exe
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\bin\Debug\QLBHalpha2.pdb
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.Properties.Resources.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.csproj.GenerateResource.Cache
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.exe
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.pdb
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.Resource.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\son project\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.exe
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\son project\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.pdb
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNsx.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frUser.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frAbout.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frMain.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frLoaisp.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frLogin.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNhanvien.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frSanpham.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNguoidung.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNcc.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frDoiMK.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frBackup_restore.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frDathang.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frKhachhang.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frMuahang.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.test.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frQuanLyDatHang.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frHoadon.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frTacgia.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.fr_CtyDatHang.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frthongke.resources
+C:\Documents and Settings\son\My Documents\Visual Studio 2008\Projects\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.fr_thongkeBanHang.resources
+C:\Documents and Settings\son\Desktop\Nhom2 - Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.exe
+C:\Documents and Settings\son\Desktop\Nhom2 - Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.pdb
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\bin\Debug\QLBHalpha2.exe.config
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\bin\Debug\QLBHalpha2.exe
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\bin\Debug\QLBHalpha2.pdb
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.csprojAssemblyReference.cache
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frBackup_restore.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frDatHang.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frDoiMK.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frAbout.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frHoadon.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frMain.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frMuahang.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNcc.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNguoidung.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frQuanLyDatHang.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frTacgia.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frthongke.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frUser.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNsx.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frLoaisp.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frLogin.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNhanvien.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frKhachhang.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.fr_CtyDatHang.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.fr_thongkeBanHang.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.Properties.Resources.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.Resource.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frSanpham.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.test.resources
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.csproj.GenerateResource.cache
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.csproj.CoreCompileInputs.cache
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.csproj.CopyComplete
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.exe
+C:\Users\HOANG MINH DAI\Downloads\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.pdb
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\bin\Debug\QLBHalpha2.exe.config
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\bin\Debug\QLBHalpha2.exe
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\bin\Debug\QLBHalpha2.pdb
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.csprojAssemblyReference.cache
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frBackup_restore.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frDatHang.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frDoiMK.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frAbout.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frHoadon.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frMain.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frMuahang.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNcc.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNguoidung.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frQuanLyDatHang.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frTacgia.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frthongke.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frUser.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNsx.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frLoaisp.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frLogin.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frNhanvien.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frKhachhang.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.fr_CtyDatHang.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.fr_thongkeBanHang.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.Properties.Resources.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.Resource.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.frSanpham.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.test.resources
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.csproj.GenerateResource.cache
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.csproj.CopyComplete
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.exe
+C:\Users\HOANG MINH DAI\Desktop\Do an Ban Hang Dien Tu\Do an Ban Hang Dien Tu\Source Code\QLBHalpha2\QLBHalpha2\obj\Debug\QLBHalpha2.pdb
